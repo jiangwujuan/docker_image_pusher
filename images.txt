@@ -1,1 +1,1 @@
-mysql
+apache/rocketmq:5.3.2
