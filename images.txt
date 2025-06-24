@@ -1,1 +1,1 @@
-swr.cn-south-1.myhuaweicloud.com/myj-hngz-zcm/xxl-job-admin:2.4.0-20230905
+xuxueli/xxl-job-admin:2.3.1
